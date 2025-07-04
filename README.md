@@ -8,6 +8,8 @@ This project contains a variaty of GCP tasks related to the console and cloud sh
 - GCP Console
 - GCP Cloudshell & CLI
 - GCP Compute
+- GCP IAM
+- GCP APIs
 - IAM
 - APIs
 
