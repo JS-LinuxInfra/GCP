@@ -31,8 +31,11 @@ This project contains a variaty of GCP tasks related to the console and cloud sh
 ### Confirm the region, change to a different zone in the region, validate new zone is active. 
 ![Step6](images/step6.png)
 
-### Create an e2-medium VM using the $ZONE variable for location.
+### Export the PROJECT and ZONE paramaters to applicable VARs then echo the output to the cloud shell terminal.
 ![Step7](images/step7.png)
 
-### List out instances to cloud shell
+### Create an e2-medium VM using the $ZONE variable for location.
 ![Step8](images/step8.png)
+
+### List out instances to cloud shell
+![Step9](images/step9.png)
