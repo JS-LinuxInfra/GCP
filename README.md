@@ -37,5 +37,8 @@ This project contains a variaty of GCP tasks related to the console and cloud sh
 ### Create an e2-medium VM using the $ZONE variable for location.
 ![Step8](images/step8.png)
 
-### List out instances to cloud shell
+### List out VMs to cloud shell.
 ![Step9](images/step9.png)
+
+### List out instances to cloud shell, filtering for the VM that was just created.
+![Step10](images/step10.png)
