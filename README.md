@@ -45,3 +45,6 @@ This project contains a variaty of GCP tasks related to the console and cloud sh
 
 ### Create RSA keypair for new VM, assign to active zone, validate SSH functionality in cloudshell.
 ![Step11](images/step11.png)
+
+### Installing NGINX on new VM.
+![Step12](images/step12.png)
