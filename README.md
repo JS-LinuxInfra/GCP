@@ -42,3 +42,6 @@ This project contains a variaty of GCP tasks related to the console and cloud sh
 
 ### List out instances to cloud shell, filtering for the VM that was just created.
 ![Step10](images/step10.png)
+
+### Create RSA keypair for new VM, assign to active zone, validate SSH functionality in cloudshell.
+![Step11](images/step11.png)
