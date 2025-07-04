@@ -1,4 +1,4 @@
-# GCP
+st# GCP
 GCP Labs and Building
 
 ## Scope
@@ -27,3 +27,6 @@ This project contains a variaty of GCP tasks related to the console and cloud sh
 
 ### Enable the Dialogflow API and confirm this service is now usable with the current principal in use.
 ![Step5](images/step5.png)
+
+### Confirm the region, change to a different zone in the region, validate new zone is active. 
+![Step6](images/step6.png)
