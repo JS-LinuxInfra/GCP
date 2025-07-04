@@ -30,3 +30,6 @@ This project contains a variaty of GCP tasks related to the console and cloud sh
 
 ### Confirm the region, change to a different zone in the region, validate new zone is active. 
 ![Step6](images/step6.png)
+
+### Create e2-medium VM using $ZONE variable for location.
+![Step7](images/step7.png)
