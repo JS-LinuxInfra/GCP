@@ -4,7 +4,7 @@ This project contains a variaty of GCP tasks related to various services such as
 ## Environment & Services
 - GCP Console
 - GCP Cloudshell 
-- Gshell CLI
+- gcloud CLI
 - GCP Compute
 - GCP IAM
 - GCP APIs
