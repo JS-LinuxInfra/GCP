@@ -52,5 +52,5 @@ This project contains a variaty of GCP tasks related to the console and cloud sh
 ### List out current firewall rules for compute, validate if enabled or not.
 ![Step13](images/step13.png)
 
-### Create new ingress firewall rule for compute that allows TCP80 (HTTP), then set priority and tag(s).
+### Create new ingress firewall rule for compute that allows TCP80 (HTTP), set priority and tag(s), validate rule is set on the VM - filter for  port 80.
 ![Step14](images/step14.png)
