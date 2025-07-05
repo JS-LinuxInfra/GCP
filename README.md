@@ -58,3 +58,6 @@ This project contains a variaty of GCP tasks related to the console and cloud sh
 
 ### Create new ingress firewall rule for compute that allows TCP80 (HTTP), set priority and tag(s), validate rule is set on the VM - filter for  port 80.
 ![Step15](images/step15.png)
+
+### View the past seven days of spend as well as forecast in the billing summary.
+![Step16](images/step16.png)
