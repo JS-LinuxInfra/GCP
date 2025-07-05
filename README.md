@@ -48,3 +48,6 @@ This project contains a variaty of GCP tasks related to the console and cloud sh
 
 ### Installing NGINX on new VM.
 ![Step12](images/step12.png)
+
+### List out current firewall rules for compute, validate if enabled or not.
+![Step13](images/step13.png)
