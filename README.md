@@ -1,5 +1,3 @@
-st# GCP
-
 ## Scope
 This project contains a variaty of GCP tasks related to various services such as Compute, IAM, APIs, Storage, Spend, etc.
 
