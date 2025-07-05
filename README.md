@@ -7,6 +7,7 @@ This project contains a variaty of GCP tasks related to the console and cloud sh
 ## Environment & Services
 - GCP Console
 - GCP Cloudshell 
+- Gshell CLI
 - GCP Compute
 - GCP IAM
 - GCP APIs
