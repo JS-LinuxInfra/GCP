@@ -2,7 +2,7 @@ st# GCP
 GCP Labs and Building
 
 ## Scope
-This project contains a variaty of GCP tasks related to the console and cloud shell (CLI).
+This project contains a variaty of GCP tasks related to various services such as Compute, IAM, APIs, Storage, Spend, etc.
 
 ## Environment & Services
 - GCP Console
