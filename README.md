@@ -50,8 +50,11 @@ This project contains a variaty of GCP tasks related to the console and cloud sh
 ### Installing NGINX on new VM.
 ![Step12](images/step12.png)
 
-### List out current firewall rules for compute, validate if enabled or not.
+### Validating NGINX is up and running on the new VM via curl.
 ![Step13](images/step13.png)
 
-### Create new ingress firewall rule for compute that allows TCP80 (HTTP), set priority and tag(s), validate rule is set on the VM - filter for  port 80.
+### List out current firewall rules for compute, validate if enabled or not.
 ![Step14](images/step14.png)
+
+### Create new ingress firewall rule for compute that allows TCP80 (HTTP), set priority and tag(s), validate rule is set on the VM - filter for  port 80.
+![Step15](images/step15.png)
