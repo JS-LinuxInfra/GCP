@@ -64,3 +64,6 @@ This project contains a variaty of GCP tasks related to various services such as
 
 ### View the cost each service accrued on a certain day within the designated date range.
 ![Step18](images/step18.png)
+
+### Filter and view the cost for each service accrued over a certain date range sorting for a specific zone and region. 
+![Step19](images/step19.png)
