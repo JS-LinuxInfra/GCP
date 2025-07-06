@@ -67,3 +67,6 @@ This project contains a variaty of GCP tasks related to various services such as
 
 ### Filter and view the cost for each service accrued over a certain date range sorting for a specific zone and region. 
 ![Step19](images/step19.png)
+
+### View cost for the month without the Sustained Use discount being applied.
+![Step20](images/step20.png)
