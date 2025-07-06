@@ -73,3 +73,6 @@ This project contains a variaty of GCP tasks related to various services such as
 
 ### Filter cost reporting for the month by both project and SKU.
 ![Step21](images/step21.png)
+
+### View the spend for the month for each service.
+![Step22](images/step22.png)
