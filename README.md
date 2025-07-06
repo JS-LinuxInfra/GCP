@@ -62,5 +62,5 @@ This project contains a variaty of GCP tasks related to various services such as
 ### View spend report sorting by the amount each service is costing per the specified date duration.
 ![Step17](images/step17.png)
 
-### View the cost each service accrued over the last 30 days.
+### View the cost each service accrued on a certain day within the designated date range.
 ![Step18](images/step18.png)
