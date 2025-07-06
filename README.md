@@ -76,3 +76,9 @@ This project contains a variaty of GCP tasks related to various services such as
 
 ### View the spend for the month for each service.
 ![Step22](images/step22.png)
+
+### Set the region, then assign a variable for both the region (REGION) and the zone (ZONE).
+![Step23](images/step23.png)
+
+### Create a new VM, set the zone, set the region, select the series, type, OS, bootdisk, and enable desired firewall rules.
+![Step24](images/step24.png)
