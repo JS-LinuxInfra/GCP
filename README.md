@@ -58,3 +58,6 @@ This project contains a variaty of GCP tasks related to various services such as
 
 ### View the past seven days of spend as well as projected forecast in the billing account overview.
 ![Step16](images/step16.png)
+
+### View spend report sorting by amount each service is using.
+![Step17](images/step17.png)
