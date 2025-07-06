@@ -70,3 +70,6 @@ This project contains a variaty of GCP tasks related to various services such as
 
 ### View cost for the month without the Sustained Use discount being applied.
 ![Step20](images/step20.png)
+
+### Filter cost reporting for the month by both project and SKU.
+![Step21](images/step21.png)
