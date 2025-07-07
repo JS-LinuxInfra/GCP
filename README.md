@@ -82,3 +82,6 @@ This project contains a variaty of GCP tasks related to various services such as
 
 ### Create a new VM, set the zone, set the region, select the series, type, OS, bootdisk, and enable desired firewall rules.
 ![Step24](images/step24.png)
+
+### Validate SSH functionality in the browser is functioning as expected after provisioning new VM.
+![Step25](images/step25.png)
