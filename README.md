@@ -97,3 +97,18 @@ This project contains a variaty of GCP tasks related to various services such as
 
 ### Validate that both VMs are showing as created and available.
 ![Step29](images/step29.png)
+
+### Validate that SSH is functional for the second VM using Cloud Shell.
+![Step30](images/step30.png)
+
+### Enable the App Engine Admin API.
+![Step31](images/step31.png)
+
+### Clone the "Hello World" Python repo from GitHub to the current GCP project, update the OS, then setup the Python environment.
+![Step32](images/step32.png)
+
+### Confirm the app server is accesible from the browser.
+![Step33](images/step33.png)
+
+### Start the web server, validate the front-end, then stop the web server.
+![Step34](images/step34.png)
