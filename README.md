@@ -94,3 +94,6 @@ This project contains a variaty of GCP tasks related to various services such as
 
 ### Create a new VM using gcloud shell and validate that it is running.
 ![Step28](images/step28.png)
+
+### Validate that both VMs are showing as created and available.
+![Step29](images/step29.png)
