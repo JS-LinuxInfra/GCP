@@ -91,3 +91,6 @@ This project contains a variaty of GCP tasks related to various services such as
 
 ### Confirm the web server is available via using an external IP in the browser.
 ![Step27](images/step27.png)
+
+### Create a new VM using gcloud shell and validate that it is running.
+![Step28](images/step28.png)
