@@ -112,3 +112,18 @@ This project contains a variaty of GCP tasks related to various services such as
 
 ### Start the web server, validate the front-end, then stop the web server.
 ![Step34](images/step34.png)
+
+### Update Python so the greeting of the web application is changed.
+![Step35](images/step35.png)
+
+### Validating the application starts and is now accesible from the browser.
+![Step36](images/step36.png)
+
+### Deploying the web application to the App Engine service.
+![Step37](images/step37.png)
+
+### Confirm the change went through on the front-end.
+![Step38](images/step38.png)
+
+### Build and Deploy a CloudRun function.
+![Step39](images/step39.png)
