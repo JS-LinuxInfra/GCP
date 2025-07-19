@@ -88,3 +88,6 @@ This project contains a variaty of GCP tasks related to various services such as
 
 ### Update the OS, install NGINX, and confirming it is running on the VM.
 ![Step26](images/step26.png)
+
+### Confirm the web server is available via using an external IP in the browser.
+![Step27](images/step27.png)
