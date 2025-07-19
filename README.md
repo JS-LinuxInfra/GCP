@@ -85,3 +85,6 @@ This project contains a variaty of GCP tasks related to various services such as
 
 ### Validate SSH functionality in the browser is functioning as expected after provisioning new VM.
 ![Step25](images/step25.png)
+
+### Update the OS, install NGINX, and confirming it is running on the VM.
+![Step26](images/step26.png)
