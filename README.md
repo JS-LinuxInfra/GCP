@@ -127,3 +127,18 @@ This project contains a variaty of GCP tasks related to various services such as
 
 ### Build and Deploy a CloudRun function.
 ![Step39](images/step39.png)
+
+### Test the Function Payload and validate the run in logging.
+![Step40](images/step40.png)
+
+### Clone the repo from the main GCP repo, update nodeJS using CloudShell, start the web server.
+![Step41](images/step41.png)
+
+### Confirm the front end GUI is both up and available.
+![Step42](images/step42.png)
+
+### Create an artifact repository.
+![Step43](images/step43.png)
+
+### Set the repo permissions, start needed services, start the build process.
+![Step44](images/step44.png)
