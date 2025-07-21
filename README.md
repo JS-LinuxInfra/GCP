@@ -157,3 +157,18 @@ This project contains a variaty of GCP tasks related to various services such as
 
 ### CloudRun 071925 Reploy the app with a concurrency of 1, as opposed to the default concurrency of 80.
 ![Step49](images/step49.png)
+
+### CloudRun 071925 Validate the revised build is showing in CloudRun with the updated concurrency of 1.
+![Step50](images/step50.png)
+
+### CloudRun 071925 Validate the second revised build deployed with the default concurrency of 80.
+![Step51](images/step51.png)
+
+### CloudRun | 071925 | Build an update to the website by updating and pushing the Docker image(s) being used for this task.
+![Step52](images/step52.png)
+
+### CloudRun | 071925 | Update and then validate the website with zero downtime for endusers.
+![Step53](images/step53.png)
+
+### GKE K8 | 071925 | Set the region and the zone in CloudShell.
+![Step54](images/step54.png)
