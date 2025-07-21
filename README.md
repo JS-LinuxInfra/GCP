@@ -142,3 +142,18 @@ This project contains a variaty of GCP tasks related to various services such as
 
 ### Set the repo permissions, start needed services, start the build process.
 ![Step44](images/step44.png)
+
+### CloudRun 071925 Pull down files, build Docker image, start services.
+![Step45](images/step45.png)
+
+### CloudRun 071925 Validate the build status execution in CloudBuild.
+![Step46](images/step46.png)
+
+### CloudRun 071925 Deploying the image to CloudBuild.
+![Step47](images/step47.png)
+
+### CloudRun 071925  Validate the deployment is running.
+![Step48](images/step48.png)
+
+### CloudRun 071925 Reploy the app with a concurrency of 1, as opposed to the default concurrency of 80.
+![Step49](images/step49.png)
