@@ -10,8 +10,16 @@ This project contains a variaty of GCP tasks related to various services such as
 - GCP API
 
 *******************************************************************************************************************
-Create tree of tasks and services, cleanup and standardize, standardize format, update infra repo description, apply the same to K8, upload remaining screencaptires same format
-.
+To-Do
+1. List each service by logical section and label screenshots
+2. Create tree showing all services and tasks, cleanup formatting
+3. Ensure formatting is standardized across all services and documented in about me repo for going forward
+4. Upload remaining GKE screencaptures and document per the above
+5. Apply the same process to K8 repo
+6. Create folders by task and service for all screen captures, move all images and update pointers, confirm everything looks good
+7. Finish Udacity GCP course - upload and annotate all
+8. Start PluralSite GCP CDL cert course and use format going forward
+
 ├── README.md
 ├── tasks
 │   ├── service 
