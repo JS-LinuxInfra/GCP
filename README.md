@@ -144,15 +144,15 @@ This project contains a variaty of GCP tasks related to various services such as
 ![Step44](images/step44.png)
 
 ### CloudRun 
-- 07192025 - Pull down files, build Docker image, start services(![Step45](images/step45.png)
-- 07192025 - Validate the build status execution in CloudBuild(![Step46](images/step46.png)
-- 07192025 - Deploying the image to CloudBuild(![Step47](images/step47.png)
-- 07192025 - Validate the deployment is running(![Step48](images/step48.png)
-- 07192025 - Reploy the app with a concurrency of 1, as opposed to the default concurrency of 80(![Step49](images/step49.png)
-- 07192025 - Validate the revised build is showing in CloudRun with the updated concurrency of 1(![Step50](images/step50.png)
-- 07192025 - Validate the second revised build deployed with the default concurrency of 80(![Step51](images/step51.png)
-- 07192025 - Build an update to the website by updating and pushing the Docker image(s) being used for this task(![Step52](images/step52.png)
-- 07192025 - Update and then validate the website with zero downtime for endusers(![Step53](images/step53.png)
+- 07192025 - Pull down files, build Docker image, start services![Step45](images/step45.png)
+- 07192025 - Validate the build status execution in CloudBuild![Step46](images/step46.png)
+- 07192025 - Deploying the image to CloudBuild![Step47](images/step47.png)
+- 07192025 - Validate the deployment is running![Step48](images/step48.png)
+- 07192025 - Reploy the app with a concurrency of 1, as opposed to the default concurrency of 80![Step49](images/step49.png)
+- 07192025 - Validate the revised build is showing in CloudRun with the updated concurrency of 1![Step50](images/step50.png)
+- 07192025 - Validate the second revised build deployed with the default concurrency of 80![Step51](images/step51.png)
+- 07192025 - Build an update to the website by updating and pushing the Docker image(s) being used for this task![Step52](images/step52.png)
+- 07192025 - Update and then validate the website with zero downtime for endusers![Step53](images/step53.png)
 
 ### GKE  
 - 07192025 - Set the region and the zone in CloudShell(![Step54](images/step54.png)
