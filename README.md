@@ -9,8 +9,19 @@ This project contains a variaty of GCP tasks related to various services such as
 - GCP IAM
 - GCP API
 
+*******************************************************************************************************************
+Create tree of tasks and services, cleanup and standardize, standardize format, update infra repo description, apply the same to K8, upload remaining screencaptires same format
+.
+├── README.md
+├── tasks
+│   ├── service 
+│   │   ├── task
+│   │   └── task
+│   ├── service
+│   │   └── task
+*******************************************************************************************************************
 ## Tasks
-
+- Console & API
 ### Review currently available projects in the console.
 ![Step1](images/step1.png)
 
@@ -32,6 +43,8 @@ This project contains a variaty of GCP tasks related to various services such as
 ### Export the PROJECT and ZONE paramaters to applicable VARs then echo the output to the cloud shell terminal.
 ![Step7](images/step7.png)
 
+****************************************************************************
+- Compute
 ### Create an e2-medium VM using the $ZONE variable for location.
 ![Step8](images/step8.png)
 
@@ -55,27 +68,6 @@ This project contains a variaty of GCP tasks related to various services such as
 
 ### Create new ingress firewall rule for compute that allows TCP80 (HTTP), set priority and tag(s), validate rule is set on the VM - filter for  port 80.
 ![Step15](images/step15.png)
-
-### View the past seven days of spend as well as projected forecast in the billing account overview.
-![Step16](images/step16.png)
-
-### View spend report sorting by the amount each service is costing per the specified date duration.
-![Step17](images/step17.png)
-
-### View the cost each service accrued on a certain day within the designated date range.
-![Step18](images/step18.png)
-
-### Filter and view the cost for each service accrued over a certain date range sorting for a specific zone and region. 
-![Step19](images/step19.png)
-
-### View cost for the month without the Sustained Use discount being applied.
-![Step20](images/step20.png)
-
-### Filter cost reporting for the month by both project and SKU.
-![Step21](images/step21.png)
-
-### View the spend for the month for each service.
-![Step22](images/step22.png)
 
 ### Set the region, then assign a variable for both the region (REGION) and the zone (ZONE).
 ![Step23](images/step23.png)
@@ -101,6 +93,32 @@ This project contains a variaty of GCP tasks related to various services such as
 ### Validate that SSH is functional for the second VM using Cloud Shell.
 ![Step30](images/step30.png)
 
+**********************************************************
+- Billing and Spend
+### View the past seven days of spend as well as projected forecast in the billing account overview.
+![Step16](images/step16.png)
+
+### View spend report sorting by the amount each service is costing per the specified date duration.
+![Step17](images/step17.png)
+
+### View the cost each service accrued on a certain day within the designated date range.
+![Step18](images/step18.png)
+
+### Filter and view the cost for each service accrued over a certain date range sorting for a specific zone and region. 
+![Step19](images/step19.png)
+
+### View cost for the month without the Sustained Use discount being applied.
+![Step20](images/step20.png)
+
+### Filter cost reporting for the month by both project and SKU.
+![Step21](images/step21.png)
+
+### View the spend for the month for each service.
+![Step22](images/step22.png)
+
+***********************************************************************
+- API/App Engine
+
 ### Enable the App Engine Admin API.
 ![Step31](images/step31.png)
 
@@ -125,6 +143,8 @@ This project contains a variaty of GCP tasks related to various services such as
 ### Confirm the change went through on the front-end.
 ![Step38](images/step38.png)
 
+********************************************************************************
+- CloudRun |Artifact Repo
 ### Build and Deploy a CloudRun function.
 ![Step39](images/step39.png)
 
@@ -143,7 +163,10 @@ This project contains a variaty of GCP tasks related to various services such as
 ### Set the repo permissions, start needed services, start the build process.
 ![Step44](images/step44.png)
 
-### CloudRun 
+******************************************
+
+### CloudRun - Build, tune and update website
+
 - 07192025 - Pull down files, build Docker image, start services![Step45](images/step45.png)
 - 07192025 - Validate the build status execution in CloudBuild![Step46](images/step46.png)
 - 07192025 - Deploying the image to CloudBuild![Step47](images/step47.png)
@@ -154,5 +177,5 @@ This project contains a variaty of GCP tasks related to various services such as
 - 07192025 - Build an update to the website by updating and pushing the Docker image(s) being used for this task![Step52](images/step52.png)
 - 07192025 - Update and then validate the website with zero downtime for endusers![Step53](images/step53.png)
 
-### GKE  
-- 07192025 - Set the region and the zone in CloudShell(![Step54](images/step54.png)
+### GKE - TBD 
+- 07192025 - Set the region and the zone in CloudShell![Step54](images/step54.png)
