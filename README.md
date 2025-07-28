@@ -11,13 +11,12 @@ This project contains a variaty of GCP tasks related to various services such as
 
 *******************************************************************************************************************
 To-Do
-1. Ensure formatting is standardized across all services and documented in about me repo for going forward
-2. Upload remaining GKE screencaptures and document per the above
-3. Apply the same process to K8 repo
-4. Create folders by task and service for all screen captures, move all images and update pointers, confirm everything looks good
-5. Make Linked Post announcing changes and hashtag GCP, K8, Go
-6. Finish Udacity GCP course - upload and annotate all
-7. Start PluralSite GCP CDL cert course and use format going forward
+1. Upload remaining GKE screencaptures and document per the above
+2. Apply the same process to K8 repo
+3. Create folders by task and service for all screen captures, move all images and update pointers, confirm everything looks good
+4. Make Linked Post announcing changes and hashtag GCP, K8, Go
+5. Finish Udacity GCP course - upload and annotate all
+6. Start PluralSite GCP CDL cert course and use format going forward
 
 ```
 ├── README.md
@@ -47,6 +46,10 @@ To-Do
 |   |   └── Build the Docker image needed for the application -> start required services and deploy to CloudBuild -> validate functionality
 |   |   └── Redeploy and test the app with both the default Concurrency of 80 as oncurrency well as 1 for performance analysis 
 |   |   └── Build the website update using Docker then push out with zero noticible downtime to enduser
+│   ├── GKE
+│   │   └── Set both the region and zone using CloudShell
+│   │   └── Create the new cluster -> configure authentication -> create the service and then expose to external traffic
+│   │   └── Validate the external IP has been assigned and gthe app is reachable via browser -> Delete the cluster then validate it has been deleted
 ```
 
 ## Services and associated tasks, building and troubleshooting
@@ -114,7 +117,10 @@ To-Do
 - 07272025 Build an update to the website by updating and pushing the Docker image(s) being used for this task![Step52](images/step52.png)
 - 07272025 Update and then validate the website with zero downtime for endusers![Step53](images/step53.png)
 
-********************************************************************************
-
-### GKE - TBD 
-- 07192025 - Set the region and the zone in CloudShell![Step54](images/step54.png)
+### GKE 
+- 07272025 - Set the region and the zone in CloudShell![Step54](images/step54.png)
+- 07272025 - Create a new GKE cluster with 3 nodes![Step55](images/step55.png)
+- 07272025 - Obtain authentication credentials for new cluster![Step56](images/step56.png)
+- 07272025 - Create kubernetes service -> expose the app to external traffic -> validate services are running -> confirm the externalIP has been generated via CloudShell![Step57](images/step57.png)
+- 07272025 - Validate the application is available via browser access![Step58](images/step58.png)
+- 07272025 - Delete the cluster then validate this has been completed using CloudShell![Step59](images/step59.png)
