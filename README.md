@@ -19,7 +19,6 @@ To-Do
 6. Finish Udacity GCP course - upload and annotate all
 7. Start PluralSite GCP CDL cert course and use format going forward
 
-```
 ├── Service: Task(s) | Troubleshooting | Building | Log Analysis
 │   ├── Console, API & IAM
 |   |   └── Review available projects
@@ -45,8 +44,8 @@ To-Do
 |   |   └── Update the application then validate the WebServer functionality 
 |   |   └── Build the Docker image needed for the application -> start required services and deploy to CloudBuild -> validate functionality
 |   |   └── Redeploy and test the app with both the default Concurrency of 80 as oncurrency well as 1 for performance analysis 
-|   |   └── Build the website update using Docker then push out with zero noticible downtime to endusers```
-*******************************************************************************************************************
+|   |   └── Build the website update using Docker then push out with zero noticible downtime to endusers
+
 ## Services and associated tasks, building and troubleshooting
 
 ### Console, API & IAM
