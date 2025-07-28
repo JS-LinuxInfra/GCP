@@ -20,7 +20,6 @@ To-Do
 7. Start PluralSite GCP CDL cert course and use format going forward
 
 ```
-├── README.md
 ├── Service: Task(s) | Troubleshooting | Building | Log Analysis
 │   ├── Console, API & IAM
 |   |   └── Review available projects
