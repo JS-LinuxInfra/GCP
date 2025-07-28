@@ -19,7 +19,8 @@ To-Do
 6. Finish Udacity GCP course - upload and annotate all
 7. Start PluralSite GCP CDL cert course and use format going forward
 
-```├── README.md
+```
+├── README.md
 ├── Service: Task(s) | Troubleshooting | Building | Log Analysis
 │   ├── Console, API & IAM
 |   |   └── Review available projects
