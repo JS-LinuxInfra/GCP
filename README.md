@@ -9,15 +9,6 @@ This project contains a variaty of GCP tasks related to various services such as
 - GCP IAM
 - GCP API
 
-*******************************************************************************************************************
-To-Do
-1. Upload remaining GKE screencaptures and document per the above
-2. Apply the same process to K8 repo
-3. Create folders by task and service for all screen captures, move all images and update pointers, confirm everything looks good
-4. Make Linked Post announcing changes and hashtag GCP, K8, Go
-5. Finish Udacity GCP course - upload and annotate all
-6. Start PluralSite GCP CDL cert course and use format going forward
-
 ```
 ├── README.md
 ├── Service: Task(s) | Troubleshooting | Building | Log Analysis
