@@ -58,7 +58,7 @@ This project contains a variaty of GCP tasks related to various services such as
   ![CAI5](Console_API_IAM/CAI5.png)
 - 07202025 Confirm the region, change to a different zone in the region, then validate this new zone is active
   ![CAI6](Console_API_IAM/CAI6.png)
-- 07202025 Export both the PROJECT and ZONE paramaters to their respective variables, then echo the output for each to CloudShell
+- 07202025 Export both the PROJECT and ZONE paramaters to their respective variables, then echo the output for each to CloudShell  
   ![CAI7](Console_API_IAM/CAI7.png)
 
 ### Compute
