@@ -103,7 +103,7 @@ This project contains a variaty of GCP tasks related to various services such as
 - 07262025 View the spend report; sorting by the amount each service is costing in a pre-defined spend period  
   ![BAS2](Billing_and_Spend/BAS2.png)
 - 07262025 View the cost that each service accrued on a certain day within a targeted spend range  
-  ![BAS3](images/BAS3.png)
+  ![BAS3](Billing_and_Spend/BAS3.png)
 - 07262025 Filter and view the cost for each service accrued over a certain date by zone and region  
   ![BAS4](Billing_and_Spend/BAS4.png)
 - 07262025 View total spend for the month without the Sustained Use discount being applied  
