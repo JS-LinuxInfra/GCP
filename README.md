@@ -143,7 +143,7 @@ This project contains a variaty of GCP tasks related to various services such as
 - 07272025 Create an artifact repository  
   ![CR1-5](CloudRun/CR1-5.png)
 - 07272025 Set the repo permissions, start needed services, then start the build process  
-  [CR1-6](CloudRun/CR1-6.png)
+  ![CR1-6](CloudRun/CR1-6.png)
 - 07272025 Pull down files, build Docker image, start services  
   ![CR1-7](CloudRun/CR1-7.png)
 - 07272025 Validate the build status execution in CloudBuild  
