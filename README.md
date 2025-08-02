@@ -47,7 +47,7 @@ This project contains a variaty of GCP tasks related to various services such as
 
 ### Console, API & IAM
 - 07202025 Review currently available projects using the console.![CAI1](Console, API & IAM/CAI1.png)
-- 07202025 Access the Management Services then the API service![Console, API & IAM](images/CAI2.png)
+- 07202025 Access the Management Services then the API service![CAI2](images/CAI2.png)
 - 07202025 Create a new principal and then confirm it only has the viewer role permission assigned![CAI3](Console, API & IAM/CAI3.png)
 - 07202025 Confirm the roles assigned to each principal![CAI4](Console, API & IAM/CAI4.png)
 - 07202025 Enable the Dialogflow API and then confirm that this service is now usable with the current principal![CAI5](Console, API & IAM/CAI5.png)
