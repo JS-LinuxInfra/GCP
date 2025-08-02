@@ -73,13 +73,13 @@ This project contains a variaty of GCP tasks related to various services such as
 - 07262025 Validate SSH functionality for the additional VMs also using CloudShell![compute1-16](Compute/compute1-16.png)
 
 ### Billing and Spend
-- 07262025 View the past seven days of spend, as well as the projected spend forecast in the billing account overview![Step16](images/step16.png)
-- 07262025 View the spend report; sorting by the amount each service is costing in a pre-defined spend period![Step17](images/step17.png)
-- 07262025 View the cost that each service accrued on a certain day within a targeted spend range![Step18](images/step18.png)
-- 07262025 Filter and view the cost for each service accrued over a certain date by zone and region![Step19](images/step19.png)
-- 07262025 View total spend for the month without the Sustained Use discount being applied![Step20](images/step20.png)
-- 07262025 Filter cost reporting for the month by both the project and the SKU of VMs specified![Step21](images/step21.png)
-- 07262025 View the spend for the month for each service by utilized![Step22](images/step22.png)
+- 07262025 View the past seven days of spend, as well as the projected spend forecast in the billing account overview![BAS1](Billing_and_Spend/BAS1.png)
+- 07262025 View the spend report; sorting by the amount each service is costing in a pre-defined spend period![BAS2](Billing_and_Spend/BAS2.png)
+- 07262025 View the cost that each service accrued on a certain day within a targeted spend range![BAS3](images/BAS3.png)
+- 07262025 Filter and view the cost for each service accrued over a certain date by zone and region![BAS4](Billing_and_Spend/BAS4.png)
+- 07262025 View total spend for the month without the Sustained Use discount being applied![BAS5](Billing_and_Spend/BAS5.png)
+- 07262025 Filter cost reporting for the month by both the project and the SKU of VMs specified![BAS6](Billing_and_Spend/BAS6.png)
+- 07262025 View the spend for the month for each service by utilized![BAS7](Billing_and_Spend/BAS7.png)
 
 ### APIs and App Engine service
 - 07272025 Enable the App Engine Admin API using the console![Step31](images/step31.png)
