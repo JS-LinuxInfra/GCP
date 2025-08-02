@@ -52,7 +52,8 @@ This project contains a variaty of GCP tasks related to various services such as
 - 07202025 Confirm the roles assigned to each principal![CAI4](Console_API_IAM/CAI4.png)
 - 07202025 Enable the Dialogflow API and then confirm that this service is now usable with the current principal![CAI5](Console_API_IAM/CAI5.png)
 - 07202025 Confirm the region, change to a different zone in the region, then validate this new zone is active![CAI6](Console_API_IAM/CAI6.png)
-- 07202025 Export both the PROJECT and ZONE paramaters to their respective variables, then echo the output for each to CloudShell![CAI7](Console_API_IAM/CAI7.png)
+- 07202025 Export both the PROJECT and ZONE paramaters to their respective variables, then echo the output
+  for each to CloudShell![CAI7](Console_API_IAM/CAI7.png)
 
 ### Compute
 - 07262025 Create an e2-medium SKU VM after configuring the $ZONE variable to specify the desired location![compute1-1](Compute/compute1-1.png)
