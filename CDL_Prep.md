@@ -1,5 +1,5 @@
 ## Scope
-This project contains a variaty of GCP tasks related to various services such as Compute, IAM, APIs, GKE, Spend, etc.
+This project contains a variaty of GCP tasks related to various services such as Compute, IAM, APIs, GKE, Spend, etc. CDL and GKE for now then moving into ACE.
 
 ## Environment & Services
 - GCP Console
