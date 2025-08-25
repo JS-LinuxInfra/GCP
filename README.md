@@ -98,15 +98,15 @@ This repo contains various operational cloud engineering tasks inside of GCP, co
 ![CR1-14](CloudRun/CR1-14.png)
 
 ### Compute
-2025-07-26 Create an e2-medium SKU VM after configuring the $ZONE variable to specify the desired location.  
+2025-07-26 Create an e2-medium SKU VM after configuring the $ZONE variable to specify the desired location.    
 ![compute1-1](Compute/compute1-1.png)
-2025-07-26 Create a Debian VM and validate SSH via CloudShell.  
+2025-07-26 Create a Debian VM and validate SSH via CloudShell.    
 ![compute1-2](Compute/compute1-2.png)
 2025-07-26 Print the VMs to CloudShell.  
 ![compute1-3](Compute/compute1-3.png)
 2025-07-26 Print out running instances to CloudShell, filtering for the most recently created VM.  
 ![compute1-4](Compute/compute1-4.png)
-2025-07-26 Create an RSA keypair for the most recently created VM, assign to the active zone, then validate SSH via CloudShell.  
+2025-07-26 Create an RSA keypair for the most recently created VM, assign to the active zone, then validate SSH via CloudShell.    
 ![compute1-5](Compute/compute1-5.png)
 2025-07-26 Install NGINX on the newest created VM.  
 ![compute1-6](Compute/compute1-6.png)
@@ -114,51 +114,51 @@ This repo contains various operational cloud engineering tasks inside of GCP, co
 ![compute1-7](Compute/compute1-7.png)
 2025-07-26 Print the current firewall rules for compute; then validate if they are enabled or not.  
 ![compute1-8](Compute/compute1-8.png)
-2025-07-26 Create a new ingress firewall rule for compute that allows TCP80 (HTTP), set both the priority and tag(s), validate the rule is now enforcing on the VM.  
+2025-07-26 Create a new ingress firewall rule for compute that allows TCP80 (HTTP), set both the priority and tag(s), validate the rule is now enforcing on the VM.    
 ![compute1-9](Compute/compute1-9.png)
 2025-07-26 Set the region, then assign a VAR for both region and zone.  
 ![compute1-10](Compute/compute1-10.png)
-2025-07-26 Create a new VM, set the zone and region, select the series, type, OS, bootdisk, and enable required firewall rules.  
+2025-07-26 Create a new VM, set the zone and region, select the series, type, OS, bootdisk, and enable required firewall rules.    
 ![compute1-11](Compute/compute1-11.png)
-2025-07-26 Validate SSH functionality in the browser is functioning as expected.  
+2025-07-26 Validate SSH functionality in the browser is functioning as expected.    
 ![compute1-12](Compute/compute1-12.png)
-2025-07-26 Update the OS, install NGINX, and confirm running on the VM.  
+2025-07-26 Update the OS, install NGINX, and confirm running on the VM.    
 ![compute1-13](Compute/compute1-13.png)
 2025-07-26 Confirm the web server is available via browser.  
 ![compute1-14](Compute/compute1-14.png)
-2025-07-26 Create a new VM using CloudShell, then validate running.  
+2025-07-26 Create a new VM using CloudShell, then validate running.   
 ![compute1-15](Compute/compute1-15.png)
-2025-07-26 Validate that created VMs are showing as both created and available.  
+2025-07-26 Validate that created VMs are showing as both created and available.    
 ![compute1-16](Compute/compute1-16.png)
-2025-07-26 Validate SSH functionality for the additional VMs also using CloudShell.  
+2025-07-26 Validate SSH functionality for the additional VMs also using CloudShell.    
 ![compute1-17](Compute/compute1-17.png)
 
 ### ConsoleAPIIAM
-2025-07-20 Review currently available projects using the console.  
+2025-07-20 Review currently available projects using the console.    
 ![CAI1-1](ConsoleAPIIAM/CAI1-1.png)
-2025-07-20 Navigate to IAM & Admin then Service Accounts.  
+2025-07-20 Navigate to IAM & Admin then Service Accounts.    
 ![CAI1-2](ConsoleAPIIAM/CAI1-2.png)
-2025-07-20 Create a new principal and then confirm it only has the viewer role permission assigned.  
+2025-07-20 Create a new principal and then confirm it only has the viewer role permission assigned.    
 ![CAI1-3](ConsoleAPIIAM/CAI1-3.png)
-2025-07-20 Confirm the roles assigned to each principal.  
+2025-07-20 Confirm the roles assigned to each principal.    
 ![CAI1-4](ConsoleAPIIAM/CAI1-4.png)
-2025-07-20 Enable the Dialogflow API and then confirm that this service is now usable with the current principal.  
+2025-07-20 Enable the Dialogflow API and then confirm that this service is now usable with the current principal.    
 ![CAI1-5](ConsoleAPIIAM/CAI1-5.png)
-2025-07-20 Confirm the region, change to a different zone in the region, then validate this new zone is active.  
+2025-07-20 Confirm the region, change to a different zone in the region, then validate this new zone is active.    
 ![CAI1-6](ConsoleAPIIAM/CAI1-6.png)
-2025-07-20 Export both the PROJECT and ZONE parameters to their respective variables, then echo the output for each to CloudShell.  
+2025-07-20 Export both the PROJECT and ZONE parameters to their respective variables, then echo the output for each to CloudShell.   
 ![CAI1-7](ConsoleAPIIAM/CAI1-7.png)
 
 ### GKE 
-2025-07-27 Set the region and the zone in CloudShell.  
+2025-07-27 Set the region and the zone in CloudShell.    
 ![GKE1-1](GKE/GKE1-1.png)
-2025-07-27 Create a new GKE cluster with 3 nodes.  
+2025-07-27 Create a new GKE cluster with 3 nodes.    
 ![GKE1-2](GKE/GKE1-2.png)
-2025-07-27 Obtain authentication credentials for new cluster.  
+2025-07-27 Obtain authentication credentials for new cluster.    
 ![GKE1-3](GKE/GKE1-3.png)
-2025-07-27 Create kubernetes service -> expose the app to external traffic -> validate services are running -> confirm the external IP has been generated via CloudShell.  
+2025-07-27 Create kubernetes service -> expose the app to external traffic -> validate services are running -> confirm the external IP has been generated via CloudShell.    
 ![GKE1-4](GKE/GKE1-4.png)
 2025-07-27 Validate the application is available via browser access.  
 ![GKE1-5](GKE/GKE1-5.png)
-2025-07-27 Delete the cluster then validate this has been completed using CloudShell.  
+2025-07-27 Delete the cluster then validate this has been completed using CloudShell.    
 ![GKE1-6](GKE/GKE1-6.png)
