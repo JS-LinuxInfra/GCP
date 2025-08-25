@@ -40,9 +40,9 @@ This repo contains various operational cloud engineering tasks inside of GCP, co
 ![AAE1-1](APIAppEngine/AAE1-1.png)
 2025-07-27 Clone the "Hello World" Python repo from GitHub to the project, update the OS, then setup the Python env.      
 ![AAE1-2](APIAppEngine/AAE1-2.png)
-2025-07-27 Validate the app is accessible from a browser.     
+2025-07-27 Validate the app is accessible from a browser.       
 ![AAE1-3](APIAppEngine/AAE1-3.png)
-2025-07-27 Start the web server, validate the accessibility, then stop the server.      
+2025-07-27 Start the web server, validate the accessibility, then stop the server.        
 ![AAE1-4](APIAppEngine/AAE1-4.png)
 2025-07-27 Update Python so that the greeting of the public facing web application has changed.     
 ![AAE1-5](APIAppEngine/AAE1-5.png)
