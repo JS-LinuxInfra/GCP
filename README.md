@@ -36,35 +36,35 @@ This repo contains various operational cloud engineering tasks inside of GCP, co
 ## Services & Tasks
 
 ### APIAppEngine 
-2025-07-27 Enable the App Engine Admin API using the console.  
+2025-07-27 Enable the App Engine Admin API using the console.   
 ![AAE1-1](APIAppEngine/AAE1-1.png)
-2025-07-27 Clone the "Hello World" Python repo from GitHub to the project, update the OS, then setup the Python env.  
+2025-07-27 Clone the "Hello World" Python repo from GitHub to the project, update the OS, then setup the Python env.    
 ![AAE1-2](APIAppEngine/AAE1-2.png)
-2025-07-27 Validate the app is accessible from a browser.  
+2025-07-27 Validate the app is accessible from a browser.   
 ![AAE1-3](APIAppEngine/AAE1-3.png)
-2025-07-27 Start the web server, validate the accessibility, then stop the server.  
+2025-07-27 Start the web server, validate the accessibility, then stop the server.    
 ![AAE1-4](APIAppEngine/AAE1-4.png)
-2025-07-27 Update Python so that the greeting of the public facing web application has changed. 
+2025-07-27 Update Python so that the greeting of the public facing web application has changed.   
 ![AAE1-5](APIAppEngine/AAE1-5.png)
-2025-07-27 Validate the application starts and that it is now reachable from a browser.  
+2025-07-27 Validate the application starts and that it is now reachable from a browser.   
 ![AAE1-6](APIAppEngine/AAE1-6.png)
-2025-07-27 Deploy the web application to the App Engine service.  
+2025-07-27 Deploy the web application to the App Engine service.   
 ![AAE1-7](APIAppEngine/AAE1-7.png)
-2025-07-27 Confirm the web application change went through and is now reachable via a browser.  
+2025-07-27 Confirm the web application change went through and is now reachable via a browser.    
 ![AAE1-8](APIAppEngine/AAE1-8.png)
 
 ### BillingSpend
-2025-07-26 View the past seven days of spend, as well as the projected spend forecast in the billing account overview.
+2025-07-26 View the past seven days of spend, as well as the projected spend forecast in the billing account overview.  
 ![BS1-1](BillingSpend/BS1-1.png)
-2025-07-26 View the spend report; sorting by the amount each service is costing in a pre-defined spend period.
+2025-07-26 View the spend report; sorting by the amount each service is costing in a pre-defined spend period.  
 ![BS1-2](BillingSpend/BS1-2.png)
-2025-07-26 View the cost that each service accrued on a certain day within a targeted spend range. 
+2025-07-26 View the cost that each service accrued on a certain day within a targeted spend range.  
 ![BS1-3](BillingSpend/BS1-3.png)
-2025-07-26 Filter and view the cost for each service accrued over a certain date by zone and region.  
+2025-07-26 Filter and view the cost for each service accrued over a certain date by zone and region.    
 ![BS1-4](BillingSpend/BS1-4.png)
-2025-07-26 View total spend for the month without the Sustained Use discount being applied.
+2025-07-26 View total spend for the month without the Sustained Use discount being applied.  
 ![BS1-5](BillingSpend/BS1-5.png)
-2025-07-26 Filter cost reporting for the month by both the project and the SKU of VMs specified.  
+2025-07-26 Filter cost reporting for the month by both the project and the SKU of VMs specified.    
 ![BS1-6](BillingSpend/BS1-6.png)
 2025-07-26 View the spend for the month for each service by utilized.  
 ![BS1-7](BillingSpend/BS1-7.png)
