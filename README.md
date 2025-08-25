@@ -34,21 +34,21 @@ This repo contains various operational cloud engineering tasks inside of GCP, co
 ```
 
 ### APIAppEngine 
-2025-07-27 Enable the App Engine Admin API using the console.  
+- 2025-07-27 Enable the App Engine Admin API using the console.  
 ![AAE1-1](APIAppEngine/AAE1-1.png)
-2025-07-27 Clone the "Hello World" Python repo from GitHub to the project, update the OS, then setup the Python env.  
+- 2025-07-27 Clone the "Hello World" Python repo from GitHub to the project, update the OS, then setup the Python env.  
 ![AAE1-2](APIAppEngine/AAE1-2.png)
-2025-07-27 Validate the app is accessible from a browser.  
+- 2025-07-27 Validate the app is accessible from a browser.  
 ![AAE1-3](APIAppEngine/AAE1-3.png)
-2025-07-27 Start the web server, validate the accessibility, then stop the server.  
+- 2025-07-27 Start the web server, validate the accessibility, then stop the server.  
 ![AAE1-4](APIAppEngine/AAE1-4.png)
-2025-07-27 Update Python so that the greeting of the public facing web application has changed.  
+- 2025-07-27 Update Python so that the greeting of the public facing web application has changed.  
 ![AAE1-5](APIAppEngine/AAE1-5.png)
-2025-07-27 Validate the application starts and that it is now reachable from a browser.  
+- 2025-07-27 Validate the application starts and that it is now reachable from a browser.  
 ![AAE1-6](APIAppEngine/AAE1-6.png)
-2025-07-27 Deploy the web application to the App Engine service.  
+- 2025-07-27 Deploy the web application to the App Engine service.  
 ![AAE1-7](APIAppEngine/AAE1-7.png)
-2025-07-27 Confirm the web application change went through and is now reachable via a browser.  
+- 2025-07-27 Confirm the web application change went through and is now reachable via a browser.  
 ![AAE1-8](APIAppEngine/AAE1-8.png)
 
 ### BillingSpend
