@@ -60,11 +60,11 @@ This repo contains various operational cloud engineering tasks inside of GCP, co
 ![BS1-2](BillingSpend/BS1-2.png)
 2025-07-26 View the cost that each service accrued on a certain day within a targeted spend range.  
 ![BS1-3](BillingSpend/BS1-3.png)
-2025-07-26 Filter and view the cost for each service accrued over a certain date by zone and region.    
+2025-07-26 Filter and view the cost for each service accrued over a certain date by zone and region.      
 ![BS1-4](BillingSpend/BS1-4.png)
 2025-07-26 View total spend for the month without the Sustained Use discount being applied.  
 ![BS1-5](BillingSpend/BS1-5.png)
-2025-07-26 Filter cost reporting for the month by both the project and the SKU of VMs specified.    
+2025-07-26 Filter cost reporting for the month by both the project and the SKU of VMs specified.        
 ![BS1-6](BillingSpend/BS1-6.png)
 2025-07-26 View the spend for the month for each service by utilized.  
 ![BS1-7](BillingSpend/BS1-7.png)
